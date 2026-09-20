@@ -4,7 +4,7 @@ A collection of artefacts that demonstrate what I have learnt about Censorship a
 
 Artefact 1: What is Internet Censorship?
 
-Show Image
+artefact1.pnp
 
 Internet Censorship Explained - Computerphile
 
